@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1713790296 source:c:\users\я\desktop\с++\Задание на классы\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"sqlite3.h"
+	"MagicArtefact.h"
+
+1712563194 source:c:\users\я\desktop\с++\Задание на классы\src\magicartifact.cpp
+
+1712559618 c:\users\я\desktop\с++\Задание на классы\include\magicartifact.h
+
+1713640898 c:\users\я\desktop\с++\Задание на классы\magicartefact.h
+
+1710242588 c:\users\я\desktop\с++\Задание на классы\sqlite3.h
+	<stdarg.h>
+
+1710242588 source:c:\users\я\desktop\с++\Задание на классы\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"sqlite_cfg.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<Windows.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
